@@ -1,0 +1,90 @@
+[
+  {
+    "device_id": "A1",
+    "datacount": 1,
+    "info": {
+      "temperature1": 37.2,
+      "temperature2": 21.31,
+      "temperature3": 25.6,
+      "temperature4": 22.96,
+      "temperature5": 24.69
+    }
+  },
+  {
+    "device_id": "A1",
+    "datacount": 2,
+    "info": {
+      "humidity1": 0.60,
+      "humidity2": 0.54,
+      "humidity3": 0.57,
+      "humidity4": 0.62,
+      "humidity5": 0.65
+    }
+  },
+  {
+    "device_id": "A2",
+    "datacount": 1,
+    "info": {
+      "temperature1": 36.45,
+      "temperature2": 22.31,
+      "temperature3": 28.6,
+      "temperature4": 25.98,
+      "temperature5": 24.69
+    }
+  },
+  {
+    "device_id": "A2",
+    "datacount": 2,
+    "info": {
+      "humidity1": 0.64,
+      "humidity2": 0.57,
+      "humidity3": 0.57,
+      "humidity4": 0.62,
+      "humidity5": 0.66
+    }
+  },
+  {
+    "device_id": "A3",
+    "datacount": 1,
+    "info": {
+      "temperature1": 16.24,
+      "temperature2": 12.31,
+      "temperature3": 17.65,
+      "temperature4": 24.96,
+      "temperature5": 23.45
+    }
+  },
+  {
+    "device_id": "A3",
+    "datacount": 2,
+    "info": {
+      "humidity1": 0.62,
+      "humidity2": 0.65,
+      "humidity3": 0.62,
+      "humidity4": 0.65,
+      "humidity5": 0.68
+    }
+  },
+  {
+    "device_id": "A4",
+    "datacount": 1,
+    "info": {
+      "temperature1": 17.2,
+      "temperature2": 21.31,
+      "temperature3": 24.6,
+      "temperature4": 22.96,
+      "temperature5": 22.69
+    }
+  },
+  {
+    "device_id": "A4",
+    "datacount": 2,
+    "info": {
+      "humidity1": 0.50,
+      "humidity2": 0.54,
+      "humidity3": 0.57,
+      "humidity4": 0.62,
+      "humidity5": 0.65
+    }
+  } 
+]
