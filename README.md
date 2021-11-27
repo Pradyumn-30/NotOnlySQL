@@ -1,2 +1,2 @@
 # NotOnlySQL
-NoSQL database implementation
+NoSQL database implementation using DynamoDB
